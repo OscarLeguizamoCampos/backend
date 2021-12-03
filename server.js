@@ -1,4 +1,4 @@
-// hacer el import de express tradicional
+// Hacer el import de express tradicional
 // const express = require('express');
 
 // hacer el nuevo import
